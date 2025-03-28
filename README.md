@@ -1,1 +1,2 @@
-# Password-generation
+shell scripts
+Run on Debian based Linux distribution
